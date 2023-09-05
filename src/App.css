@@ -4,3 +4,13 @@
 	padding: 2rem;
 	text-align: center;
 }
+
+.wrapper {
+	display: flex;
+	gap: 12px;
+	align-items: center;
+}
+
+.wrapper button {
+	background-color: rgb(75, 75, 75);
+}
